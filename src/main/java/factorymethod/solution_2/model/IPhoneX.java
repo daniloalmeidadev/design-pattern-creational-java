@@ -1,4 +1,4 @@
-package factorymethod.before.model;
+package factorymethod.solution_2.model;
 
 public class IPhoneX extends IPhone {
 
